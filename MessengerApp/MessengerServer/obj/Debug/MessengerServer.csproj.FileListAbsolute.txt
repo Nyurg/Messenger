@@ -1,0 +1,14 @@
+C:\Users\j265155.ED.002\Desktop\MessengerApp\MessengerServer\bin\Debug\MessengerServer.exe.config
+C:\Users\j265155.ED.002\Desktop\MessengerApp\MessengerServer\bin\Debug\MessengerServer.exe
+C:\Users\j265155.ED.002\Desktop\MessengerApp\MessengerServer\bin\Debug\MessengerServer.pdb
+C:\Users\j265155.ED.002\Desktop\MessengerApp\MessengerServer\obj\Debug\MessengerServer.csprojResolveAssemblyReference.cache
+C:\Users\j265155.ED.002\Desktop\MessengerApp\MessengerServer\obj\Debug\MessengerServer.csproj.CoreCompileInputs.cache
+C:\Users\j265155.ED.002\Desktop\MessengerApp\MessengerServer\obj\Debug\MessengerServer.exe
+C:\Users\j265155.ED.002\Desktop\MessengerApp\MessengerServer\obj\Debug\MessengerServer.pdb
+C:\Users\James\Desktop\MessengerApp\MessengerServer\bin\Debug\MessengerServer.exe.config
+C:\Users\James\Desktop\MessengerApp\MessengerServer\bin\Debug\MessengerServer.exe
+C:\Users\James\Desktop\MessengerApp\MessengerServer\bin\Debug\MessengerServer.pdb
+C:\Users\James\Desktop\MessengerApp\MessengerServer\obj\Debug\MessengerServer.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\MessengerApp\MessengerServer\obj\Debug\MessengerServer.exe
+C:\Users\James\Desktop\MessengerApp\MessengerServer\obj\Debug\MessengerServer.pdb
+C:\Users\James\Desktop\MessengerApp\MessengerServer\obj\Debug\MessengerServer.csprojAssemblyReference.cache
